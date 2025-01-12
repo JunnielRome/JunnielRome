@@ -1,6 +1,5 @@
 <h3 align="center">Hi there! Welcome to my GitHub profile! 🚀</h3>
 
----
 
 # <h3>👨‍💻 About Me:</h3>
 🌟 **Computer Science Student** passionate about **Full-Stack Development** <br>
@@ -9,7 +8,6 @@
 🎯 Excited to build **user-centric, scalable web applications** <br>
 💡 Exploring emerging technologies like **AI** and **IoT**
 
----
 
 ## <h3>🌐 Socials:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junniel-rome-ardepuela-9a85011a4/)  
