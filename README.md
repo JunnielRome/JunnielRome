@@ -2,7 +2,7 @@
 
 
 # <h3>👨‍💻 About Me:</h3>
-🌟 **Computer Science Student** passionate about **Full-Stack Development** <br>
+🌟 **Computer Science Graduate** passionate about **Full-Stack Development** <br>
 🌱 Currently learning **TypeScript**, **Next.js**, and **Docker** <br>
 ⚙️ Skilled in **React**, **PostgreSQL**, **Node.js**, and more <br>
 🎯 Excited to build **user-centric, scalable web applications** <br>
